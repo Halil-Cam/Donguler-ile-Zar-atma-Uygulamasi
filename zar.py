@@ -12,10 +12,6 @@ while sayac <5:
         sayac+=1
         if sayac==5:
          break
-    else:
+    elif girdi != 1:
+        print("Uygulamadan Çıkış yapıldı. !")
         break
-
-
-
-
-
